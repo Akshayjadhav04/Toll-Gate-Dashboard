@@ -72,9 +72,9 @@ Monthly Transactions = COUNTROWS(Transactions)
 📸 Dashboard Snapshot
 ![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
 
-![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
+![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/a8a92f137a748385ae241acf25cda5ee2dfb12a4/ttol-2.png)
 
-![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
+![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-3.png)
 
 
 (Place your Power BI screenshots inside an assets/ folder and update the image paths above.)
