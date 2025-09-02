@@ -6,7 +6,7 @@ The objective is to provide data-driven insights into user behavior, spending pa
 The dataset (~10,000+ records) was created and processed using MySQL and AI tools, with intentional inconsistencies included to practice data cleaning and transformation in Power Query Editor.
 The dashboard highlights 10 KPIs across 2 pages (5 KPIs per page), focusing on transaction analysis, customer segmentation, and account trends.
 
-📌 Steps Followed
+### 📌 Steps Followed
 
 Step 1: Collected and generated a synthetic dataset (~10,000 records) using MySQL and AI-generated queries.
 
@@ -28,8 +28,8 @@ Step 9: Designed interactive visualizations including bar charts, donut charts, 
 
 Step 10: Added slicers and filters (by account type, time period, and demographics) for user-friendly navigation.
 
-📌 KPIs & Visualizations
-Page 1: Transaction Insights
+### 📌 KPIs & Visualizations
+#### Page 1: Transaction Insights
 
 Total Transactions by Type → Clustered Bar Chart
 
@@ -41,7 +41,7 @@ Total Balance by Account Type → Donut Chart
 
 Inactive Accounts Over Time → Stacked Column Chart
 
-Page 2: Customer Insights
+#### Page 2: Customer Insights
 
 Customer Count by Gender → Clustered Column Chart
 
@@ -53,7 +53,7 @@ Average Balance per Customer → KPI Card
 
 Total Active Customers → KPI Card
 
-📌 Sample DAX Measures
+### 📌 Sample DAX Measures
 -- Total Customers
 Total Customers = COUNT(Customer[CustomerID])
 
@@ -69,7 +69,7 @@ Average Balance = AVERAGE(Accounts[Balance])
 -- Monthly Transactions
 Monthly Transactions = COUNTROWS(Transactions)
 
-📸 Dashboard Snapshot
+### 📸 Dashboard Snapshot
 ![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
 
 ![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/a8a92f137a748385ae241acf25cda5ee2dfb12a4/ttol-2.png)
@@ -79,7 +79,7 @@ Monthly Transactions = COUNTROWS(Transactions)
 
 (Place your Power BI screenshots inside an assets/ folder and update the image paths above.)
 
-📌 Key Insights
+### 📌 Key Insights
 
 📈 Transaction Patterns – Shows overall transaction distribution and trends.
 
