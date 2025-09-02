@@ -70,9 +70,11 @@ Average Balance = AVERAGE(Accounts[Balance])
 Monthly Transactions = COUNTROWS(Transactions)
 
 📸 Dashboard Snapshot
-![Dashboard Page 1](assets/dashboard-page1.png)
+![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
 
+![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
 
+![Dashboard Page 1](https://github.com/Akshayjadhav04/Toll-Gate-Dashboard/blob/dbfe21ee78a9721670bd9d01c3192a9fae2b34a4/ttol-1.png)
 
 
 (Place your Power BI screenshots inside an assets/ folder and update the image paths above.)
