@@ -9,7 +9,7 @@ This Power BI dashboard provides an in-depth analysis of toll collection activit
 It highlights transaction patterns, revenue generation, vehicle distribution, and traffic flow using visualizations, KPIs, and interactive slicers.
 
 The dataset (~10,000+ records) was sourced from Madhya Pradesh Toll Collection Data and cleaned using Power Query Editor.
-The dashboard highlights 10 KPIs across 2 pages (5 KPIs each), enabling authorities to monitor toll revenue, vehicle categories, and traffic trends effectively.
+The dashboard highlights 10 KPIs across 3 pages (5 KPIs each), enabling authorities to monitor toll revenue, vehicle categories, and traffic trends effectively.
 
 Through this dashboard, authorities can:
 
